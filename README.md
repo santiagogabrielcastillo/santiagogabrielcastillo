@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Castillo</h1>
-<h3 align="center">A Ruby on Rails Trainee developer and a chemical engineer</h3>
+<h3 align="center">A Ruby on Rails developer and a chemical engineer</h3>
 
 
 Welcome to my Github profile! Please explore all my work and tell me your opinion about it! I'll be very glad to hear it!
